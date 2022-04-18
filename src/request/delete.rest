@@ -1,0 +1,2 @@
+DELETE http://localhost:8000/api/article/625481807b2282c788cd9f62
+Content-Type: application/json

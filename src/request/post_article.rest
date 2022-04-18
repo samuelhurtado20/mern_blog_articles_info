@@ -1,0 +1,7 @@
+POST http://localhost:8000/api/article/
+Content-Type: application/json
+
+{
+    "article": "Learn-React",
+    "comment": ["good job","very good"]
+}
